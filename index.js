@@ -1,0 +1,1 @@
+// full visual dashboard placeholder bundle
